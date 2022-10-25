@@ -227,31 +227,9 @@
                 },
                 {
                     "name": "",
-                    "id": "3cd90e4f-19a7-45f0-a39b-486cd39b2d22",
-                    "path": "<Mouse>/leftButton",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "PlayerInput",
-                    "action": "TapTouch",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
                     "id": "8fde7de4-742f-45ce-9227-864bbefb3d84",
                     "path": "<Touchscreen>/Press",
                     "interactions": "Hold(duration=0.1,pressPoint=0.3)",
-                    "processors": "",
-                    "groups": "PlayerInput",
-                    "action": "HoldTouch",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "750ecf7b-0212-4381-aa21-b0cc7f2a9026",
-                    "path": "<Mouse>/leftButton",
-                    "interactions": "",
                     "processors": "",
                     "groups": "PlayerInput",
                     "action": "HoldTouch",
